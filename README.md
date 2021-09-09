@@ -1,4 +1,9 @@
 <a href="https://www.newyorker.com/magazine/2005/07/04/the-misfit">rei kawakubo</a>
+<a href="https://www.criterion.com/films/809-body-and-soul">body & soul</a>
+<a href="https://www.isaacjulien.com/">isaan julien</a>
+<a href="https://www.newyorker.com/magazine/2005/07/04/the-misfit">earth</a>
+<img src="https://marshemispheres.com/https://marshemispheres.com/images/valles_marineris_enhanced-full.jpg" alt="NASA image of earth">
+<a href="https://www.newyorker.com/magazine/2005/07/04/the-misfit">rei kawakubo</a>
 
 
 <!--

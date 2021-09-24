@@ -1,4 +1,4 @@
-art >
+art ></br>
 <a href="https://www.newyorker.com/magazine/2005/07/04/the-misfit">rei kawakubo</a></br>
 <a href="https://www.criterion.com/films/809-body-and-soul">body & soul</a></br>
 <a href="https://www.isaacjulien.com/">isaan julien</a></br>

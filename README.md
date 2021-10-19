@@ -3,6 +3,7 @@ art ></br>
 <a href="https://www.criterion.com/films/809-body-and-soul">body & soul</a></br>
 <a href="https://www.isaacjulien.com/">isaac julien</a></br>
 <a href="https://www.dekanalog.com/films/this-is-not-a-burial-its-a-resurrection">this is not a burial, it's a resurrection</a></br>
+<a href="https://www.moma.org/artists/3692">rené magritte</a></br>
 
 
 <!--

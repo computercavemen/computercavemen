@@ -1,3 +1,5 @@
+art ></br>
+
 artists ></br>
 <a href="https://www.newyorker.com/magazine/2005/07/04/the-misfit">rei kawakubo</a></br>
 <a href="https://www.isaacjulien.com/">isaac julien</a></br>

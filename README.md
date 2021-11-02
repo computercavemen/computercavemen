@@ -10,6 +10,12 @@ films ></br>
 <a href="https://www.criterion.com/films/809-body-and-soul">body & soul</a></br>
 <a href="https://www.dekanalog.com/films/this-is-not-a-burial-its-a-resurrection">this is not a burial, it's a resurrection</a></br>
 
+
+TV ></br>
+<a href="https://www.youtube.com/watch?v=POkrsNVkGNk">reservation dogs</a></br>
+<a href="https://www.youtube.com/watch?v=oqxAJKy0ii4">squid game</a></br>
+
+
 <!--
 **computercavemen/computercavemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

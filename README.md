@@ -15,10 +15,12 @@ films ></br>
 tv ></br>
 <a href="https://www.youtube.com/watch?v=POkrsNVkGNk">reservation dogs</a></br>
 <a href="https://www.youtube.com/watch?v=oqxAJKy0ii4">squid game</a></br>
+<a href="https://www.youtube.com/watch?v=5jaKuv5fkAY">insecure</a></br>
 
 
 music ></br>
 <a href="https://www.youtube.com/watch?v=_MD8IK19aec">red by halluci nation</a></br>
+<a href="https://www.youtube.com/watch?v=USJjEumBpKY">throw it away by summer walker</a></br>
 
 
 <!--

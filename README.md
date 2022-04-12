@@ -5,7 +5,6 @@ artists ></br>
 <a href="https://www.isaacjulien.com/">isaac julien</a></br>
 <a href="https://www.moma.org/artists/3692">rené magritte</a></br>
 <a href="https://refikanadol.com/">refik anadol</a></br>
-<a href="https://www.youtube.com/watch?v=hyGP2LmWbTg">nabeyin</a></br>
 
 films ></br>
 <a href="https://www.criterion.com/films/809-body-and-soul">body & soul</a></br>
